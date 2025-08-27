@@ -1,0 +1,5 @@
+# Node backend env file
+node_backend/.env
+
+# Flutter env file (if you ever have one)
+
